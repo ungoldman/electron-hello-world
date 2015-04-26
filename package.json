@@ -1,0 +1,32 @@
+{
+  "name": "electron-hello-world",
+  "description": "Absolute bare minimum Hello World Electron app",
+  "version": "1.0.0",
+  "author": "Nate Goldman <nate@ngoldman.me>",
+  "bugs": {
+    "url": "https://github.com/ngoldman/electron-hello-world/issues"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.25.1"
+  },
+  "homepage": "https://github.com/ngoldman/electron-hello-world",
+  "keywords": [
+    "atom-shell",
+    "electron",
+    "example",
+    "hello",
+    "sample",
+    "world"
+  ],
+  "license": "CC-0",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ngoldman/electron-hello-world.git"
+  },
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
