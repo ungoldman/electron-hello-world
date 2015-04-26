@@ -25,6 +25,12 @@ npm start
 
 If everything went well you should be staring in awe at a Hello World application. Yay!
 
+## Learn more
+
+This demo is based on instructions and code from the Electron [Quick Start tutorial](https://github.com/atom/electron/blob/master/docs/tutorial/quick-start.md).
+
+To find out more check out the Electron [website](http://electron.atom.io/) and [documentation]([documentation](https://github.com/atom/electron/tree/master/docs)).
+
 ## License
 
 [CC-0](LICENSE.md)
