@@ -2,6 +2,10 @@
 
 A quick way to get a Hello World Electron app running locally.
 
+**Update**: looks like the Atom team has created [electron-quick-start](https://github.com/atom/electron-quick-start), a similarly inspired endeavor! Please use that instead.
+
+**No longer supported or maintained. Use at your own risk.**
+
 ## How To
 
 ### 1. clone this repo
