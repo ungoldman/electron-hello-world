@@ -37,4 +37,4 @@ To find out more check out the Electron [website](http://electron.atom.io/) and 
 
 ## License
 
-[CC-0](LICENSE.md)
+[ISC](LICENSE)
