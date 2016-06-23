@@ -7,7 +7,7 @@
     "url": "https://github.com/ngoldman/electron-hello-world/issues"
   },
   "devDependencies": {
-    "electron-prebuilt": "^0.34.0"
+    "electron-prebuilt": "^1.2.4"
   },
   "homepage": "https://github.com/ngoldman/electron-hello-world",
   "keywords": [
