@@ -9,7 +9,7 @@
     and Electron <script>document.write(process.versions['electron'])</script>.
   </body>
   <script>
-    var remote = require('remote');
-    console.log('app version ' + remote.require('app').getVersion());
+    var remote = require('electron').remote;
+    console.log('app version ' + remote.require('electron').app.getVersion());
   </script>
 </html>
